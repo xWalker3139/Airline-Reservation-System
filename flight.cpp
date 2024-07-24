@@ -123,7 +123,7 @@ int main() {
         cout << "Login failed!" << endl;
     }
 
-    // Right here I create sa sample data
+    // Right here I create a sample data
     Passenger p1("passenger1", "pass123", "P001");
     Admin a1("admin1", "admin123");
     Flight f1("F001", "New York", "London", 150);
